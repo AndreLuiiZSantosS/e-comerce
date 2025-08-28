@@ -1,7 +1,7 @@
 import React from 'react'
 
-const NewsLetter = () => {
-    
+const NewsLetterBox = () => {
+
     const onSubmitHandler = (event) => {
         event.preventDefault();
     }
@@ -20,4 +20,4 @@ const NewsLetter = () => {
   )
 }
 
-export default NewsLetter
+export default NewsLetterBox
